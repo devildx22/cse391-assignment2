@@ -39,7 +39,7 @@ body {
 }
 
 ul {
-    list-style-type: none; /* Removes default bullet points */
+    list-style-type: none;
     padding: 0;
 }
 
@@ -53,7 +53,6 @@ li {
     margin-bottom: 5px;
 }
 
-/* Adds a line-through effect for completed tasks */
 .completed span {
     text-decoration: line-through;
     color: #888;

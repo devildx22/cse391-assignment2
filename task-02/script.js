@@ -6,14 +6,12 @@ const btnStart = document.getElementById("btn-start");
 const btnStop = document.getElementById("btn-stop");
 const btnReset = document.getElementById("btn-reset");
 
-// Start Button Logic
 btnStart.addEventListener("click", function() {
     if (timerInterval !== null) return; 
 
-    // Stop exactly at 30 seconds[cite: 2]
     if (time < 30) {
         timerInterval = setInterval(function() {
-            time += 3; // Count in multiples of 3[cite: 2]
+            time += 3; 
             timeDisplay.innerText = time;
 
             if (time >= 30) {
@@ -24,13 +22,11 @@ btnStart.addEventListener("click", function() {
     }
 });
 
-// Stop Button Logic
 btnStop.addEventListener("click", function() {
     clearInterval(timerInterval); 
     timerInterval = null; 
 });
 
-// Reset Button Logic
 btnReset.addEventListener("click", function() {
     clearInterval(timerInterval); 
     timerInterval = null;

@@ -1,0 +1,61 @@
+============================================================
+           AI USAGE DECLARATION
+============================================================
+
+Name: Rifat Farzad Azad
+Student ID: [Insert Student ID Here]
+Assignment: CSE 391 Assignment 2
+Date: November 2, 2026
+
+------------------------------------------------------------
+1. AI TOOLS USED (check all that apply)
+------------------------------------------------------------
+[ ] None
+[ ] ChatGPT
+[x] GitHub Copilot
+[x] Google Gemini
+[ ] Claude
+[ ] Cursor
+[ ] Other: ________________
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE (check all that apply)
+------------------------------------------------------------
+[x] Learning/understanding concepts
+[x] Debugging my code
+[x] Generating code snippets
+[ ] Writing text content
+[x] Design/styling ideas
+[ ] Image generation
+[ ] Other: ________________
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+Briefly describe what you used AI for and how:
+I used Google Gemini as a learning guide to understand how to connect HTML, CSS, and JavaScript. I asked for explanations on CSS grid layouts for centering elements, the logic behind setInterval for the stopwatch, and how to persist data using localStorage. Gemini provided structural code snippets and styling examples which I tested, reviewed, and adapted for my project.
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+List specific files/sections where AI helped significantly:
+
+File: Task1/script.js   Section: Applying preset CSS themes via object arrays
+File: Task2/script.js   Section: setInterval and 3-second delay logic
+File: Task3/script.js   Section: JSON.stringify and localStorage logic
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand all code in my submission
+- I can explain and modify my work if asked
+- I take full responsibility for my submission
+
+Signature: Rifat Farzad Azad
+Date: November 2, 2026
+
+============================================================
+Save as: docs/AI_Declaration.txt
+============================================================
